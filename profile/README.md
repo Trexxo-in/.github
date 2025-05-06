@@ -1,7 +1,7 @@
 
 ## Service Aggregator App – Organization Description
 
-The Service Aggregator App is a modular, technology-driven platform designed to streamline and optimize service-based industries through a unified digital interface. Our initial focus is on providing solutions in the domains of cab rentals and logistics for household and commercial relocations. The platform facilitates seamless service booking, real-time tracking, transparent pricing, and structured service discovery, aiming to improve both user experience and service provider efficiency.
+Trexxo is a modular, technology-driven platform designed to streamline and optimize service-based industries through a unified digital interface. Our initial focus is on providing solutions in the domains of cab rentals and logistics for household and commercial relocations. The platform facilitates seamless service booking, real-time tracking, transparent pricing, and structured service discovery, aiming to improve both user experience and service provider efficiency.
 
 ### Project Objectives
 
