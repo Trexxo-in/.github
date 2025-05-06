@@ -1,6 +1,3 @@
-Certainly. Here's a revised, icon-free and comprehensive version of your Service Aggregator App description, tailored for use in a GitHub organization profile:
-
----
 
 ## Service Aggregator App – Organization Description
 
